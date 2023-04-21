@@ -1,6 +1,17 @@
 # GitDaw 🎹 - Streamline Your Ableton Collaboration
 
-Leverage the power of Git to collaborate seamlessly on your Ableton projects.
+GitDaw simplifies the process of collaborating on Ableton projects by utilizing the power of Git for version control. 
+It enables team members to work on projects simultaneously while tracking changes in a structured manner. 
+The workflow includes converting Ableton .als files to JSON format for better Git integration, while Git LFS handles large audio and MIDI files. 
+This approach ensures an efficient and organized collaboration experience for your music production projects.
+
+## Workflow Overview:
+- Convert your Ableton Live Set (.als) file to JSON format using the provided script.
+- Commit and push changes to the Git repository, including any new or modified audio and MIDI files.
+- Collaborators can pull changes from the Git repository, download the necessary audio and MIDI files with Git LFS, and convert the JSON file back to an Ableton Live Set (.als) file.
+- Collaborators can work on the project in Ableton, make their changes, and repeat the process by converting their updated Live Set to JSON, committing, and pushing changes to the Git repository.
+
+By following this workflow, GitDaw helps maintain a clear history of changes and ensures a smooth, organized collaboration process for Ableton Live users.
 
 ## Installation
 
