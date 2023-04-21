@@ -15,7 +15,7 @@ npm run init
 
 ### Import Changes to Ableton
 
-Convert JSON to `.als` file:
+Convert ableton json file to `.als` file:
 ```
 npm run jsonToAls -- yourFileName
 ```
