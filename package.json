@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "init": "npm install && npm run build",
+    "init": "npm install && npm run build && git lfs install",
     "build": "tsc",
     "alsToJson": "node dist/src/alsToJsonCLI.js --",
     "jsonToAls": "node dist/src/jsonToAlsCLI.js --"
