@@ -1,4 +1,4 @@
-# GitDaw - Streamline Your Ableton Collaboration
+# GitDaw 🎹 - Streamline Your Ableton Collaboration
 
 Leverage the power of Git to collaborate seamlessly on your Ableton projects.
 
